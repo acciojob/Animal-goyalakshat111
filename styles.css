@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+div{
+	background-color:gray;	
+	text-align:center;
+}
+
+div images {
+	display:flex;
+	flex-wrap:wrap;
+	gap:10px;
+}
+
+img{
+	border-radius:10px;
+}
